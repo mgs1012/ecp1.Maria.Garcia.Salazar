@@ -8,4 +8,12 @@ public class ClaseB {
 	
 	private int edad;
 
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
 }

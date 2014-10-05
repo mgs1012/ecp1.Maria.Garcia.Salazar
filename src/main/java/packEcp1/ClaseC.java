@@ -12,4 +12,7 @@ public class ClaseC {
 		this.num = num;
 	}
 
+	public int doble(){
+		return this.num*2;
+	}
 }
